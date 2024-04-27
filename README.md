@@ -1,2 +1,2 @@
 # portfolio
-My Portfolio of R, Python and SQL 
+A collection of projects showcasing Python, R and SQL coding
